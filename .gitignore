@@ -9,7 +9,6 @@
 *~
 *.swp
 *.swo
-.vscode/
 .idea/
 
 # Engagement artifacts — NEVER commit
@@ -38,8 +37,6 @@ targets/
 graphify-out/
 
 # Secrets
-.env
-.env.local
 *.pem
 *.key
 *-credentials.json
@@ -75,3 +72,4 @@ research/reports/raw/
 research/reports/drafts/
 research/reports/gaps.md
 research/reports/processed.json
+config.bat
